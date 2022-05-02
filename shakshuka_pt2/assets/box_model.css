@@ -83,3 +83,10 @@ nav ul li a {
   display: block;
 }
 
+section {
+  width: 700px;
+}
+
+aside {
+  width: 180px;
+}
